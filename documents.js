@@ -280,7 +280,7 @@ The provisions of this Section 17 shall apply accordingly to Google LLC and its 
       "Zapoznaj się z Polityką prywatności i Regulaminem aplikacji Nowenna Pompejańska - przewodnik.",
     privacyTitle: "Polityka prywatności",
     termsTitle: "Regulamin",
-    privacyContent: `1. Informacje ogólnea
+    privacyContent: `1. Informacje ogólne
 
 Niniejsza Polityka prywatności wyjaśnia, w jaki sposób przetwarzamy dane osobowe użytkowników aplikacji mobilnej „Nowenna Pompejańska - przewodnik” (dalej: „Aplikacja”) przeznaczonej na urządzenia mobilne z systemem Android oraz iOS.
 Administratorem Twoich danych osobowych jest:
