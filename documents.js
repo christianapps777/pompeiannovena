@@ -280,26 +280,17 @@ The provisions of this Section 17 shall apply accordingly to Google LLC and its 
       "Zapoznaj się z Polityką prywatności i Regulaminem aplikacji Nowenna Pompejańska - przewodnik.",
     privacyTitle: "Polityka prywatności",
     termsTitle: "Regulamin",
-    privacyContent: `Informacje ogólne
+    privacyContent: `1. Informacje ogólne
 
 Niniejsza Polityka prywatności wyjaśnia, w jaki sposób przetwarzamy dane osobowe użytkowników aplikacji mobilnej „Nowenna Pompejańska - przewodnik” (dalej: „Aplikacja”) przeznaczonej na urządzenia mobilne z systemem Android oraz iOS.
-
 Administratorem Twoich danych osobowych jest:
-
 Beata Kamińska, zamieszkała w Warszawie (02-776), ul. Gandhi 35, Polska,
-
 adres e-mail do kontaktu: christianapps438@gmail.com
-
 (dalej: „Administrator” albo „my”).
-
 Aplikacja jest dostępna w modelu bezpłatnym oraz w dwóch wariantach płatnych: 1) Pakiecie 60 dni – aktywowanym po dokonaniu jednorazowego zakupu w aplikacji, oraz 2) Subskrypcji miesięcznej – aktywowanej po wykupieniu odnawialnej subskrypcji w aplikacji. W czasie aktywnego, opłaconego okresu warianty te wyłączają reklamy i umożliwiają korzystanie z podstawowych funkcji Aplikacji offline, z zastrzeżeniem sytuacji wymagających połączenia z Internetem, takich jak pobranie Aplikacji, aktualizacje, aktywacja, weryfikacja, synchronizacja lub przywrócenie uprawnień.
-
 W Wariancie bezpłatnym Aplikacja korzysta z reklam wyświetlanych użytkownikowi za pośrednictwem zewnętrznego dostawcy, w szczególności Google AdMob. W zakresie przetwarzania danych przez Google i jego partnerów reklamowych podmioty te występują jako odrębni administratorzy danych osobowych i stosują własne polityki prywatności.
-
 W związku z obsługą zakupów, subskrypcji, statusu uprawnień i ich przywracania Usługodawca korzysta również z zewnętrznego dostawcy infrastruktury technicznej – RevenueCat. RevenueCat może przetwarzać ograniczone dane związane z zakupem, subskrypcją i statusem dostępu do funkcji płatnych zgodnie z własnymi warunkami i polityką prywatności oraz zakresem współpracy z Administratorem.
-
 W przypadku zakupu i rozliczenia Pakietu 60 dni albo Subskrypcji miesięcznej płatności są realizowane przez operatorów platform dystrybucyjnych, tj. Google Play lub App Store. Podmioty te mogą przetwarzać dane związane z płatnością, zakupem, odnowieniem subskrypcji, rozliczeniem, zwrotem lub przywróceniem zakupu zgodnie z własnymi politykami prywatności i jako odrębni administratorzy danych albo dostawcy usług płatniczych.
-
 Korzystanie z Aplikacji jest dobrowolne. Korzystając z Aplikacji, akceptujesz zasady opisane w niniejszej Polityce prywatności.
 
 2. Jakie dane przetwarzamy w Aplikacji „Nowenna Pompejańska - przewodnik”?
@@ -307,26 +298,253 @@ Korzystanie z Aplikacji jest dobrowolne. Korzystając z Aplikacji, akceptujesz z
 2.1. Dane przetwarzane lokalnie na Twoim urządzeniu
 
 Aplikacja nie wymaga zakładania konta użytkownika i w ramach samego korzystania z Aplikacji nie zbiera od Ciebie imienia, nazwiska, daty urodzenia ani adresu e-mail.
+Aplikacja zapisuje lokalnie na Twoim urządzeniu wyłącznie dane techniczne niezbędne do jej prawidłowego działania, w szczególności: 1) wybrane ustawienia Aplikacji, takie jak język, 2) stan postępu w nowennie lub innych funkcjach pomocniczych Aplikacji, 3) informację o zapoznaniu się z Regulaminem i niniejszą Polityką prywatności, 4) informacje techniczne związane z korzystaniem z Aplikacji, 5) informacje o aktywnym Płatnym dostępie lub uprawnieniu do korzystania z jego funkcji – w zakresie niezbędnym do działania Aplikacji na Twoim urządzeniu.
+Dane te są przechowywane wyłącznie na Twoim urządzeniu i nie są przez nas przesyłane na nasze serwery, chyba że wyraźnie wskazano inaczej w niniejszej Polityce prywatności.
 
-Aplikacja zapisuje lokalnie na Twoim urządzeniu wyłącznie dane techniczne niezbędne do jej prawidłowego działania...
+2.2. Dane przetwarzane przez Google AdMob lub innych dostawców reklam (reklamy w Wariancie bezpłatnym)
 
-[...] (tu wklejasz CAŁĄ resztę bez zmian)
+W celu wyświetlania reklam w Wariancie bezpłatnym Aplikacji korzystamy z zewnętrznych usług reklamowych, w szczególności Google AdMob.
+Za pośrednictwem takich usług mogą być przetwarzane m.in. następujące informacje dotyczące Twojego urządzenia i korzystania z Aplikacji: 1) identyfikator reklamowy urządzenia, taki jak IDFA, GAID lub ich odpowiedniki, 2) informacje o systemie operacyjnym, modelu urządzenia i wersji Aplikacji, 3) informacje o wyświetlanych i klikanych reklamach, 4) przybliżona lokalizacja, taka jak kraj lub region, jeśli jest udostępniona zgodnie z ustawieniami Twojego urządzenia lub ustawieniami danego dostawcy, 5) inne dane techniczne wykorzystywane do wyświetlania, ograniczania częstotliwości, pomiaru skuteczności lub personalizacji reklam zgodnie z zasadami danego dostawcy.
+Dane te mogą być wykorzystywane przez dostawcę reklam i jego partnerów w celu: 1) wyświetlania reklam w Aplikacji, 2) mierzenia skuteczności reklam, 3) doboru treści reklam, w tym reklam spersonalizowanych, jeżeli wyraziłeś na to zgodę w ustawieniach urządzenia, ustawieniach dostawcy lub w odpowiednich mechanizmach informacyjnych.
+Google lub inny dostawca reklam przetwarza Twoje dane jako odrębny administrator. Szczegółowe informacje o zasadach przetwarzania danych przez te podmioty, w tym o tym, jak wyłączyć personalizację reklam, znajdziesz w ich politykach prywatności oraz w ustawieniach swojego urządzenia lub odpowiedniego konta.
+W czasie aktywnego Płatnego dostępu Aplikacja nie wyświetla reklam w ramach standardowego korzystania z Aplikacji. Oznacza to, że co do zasady funkcjonalność reklamowa nie jest wykorzystywana do standardowego wyświetlania reklam w czasie aktywnego Płatnego dostępu.
 
-Nadzór nad przestrzeganiem przepisów o ochronie danych osobowych sprawuje Prezes Urzędu Ochrony Danych Osobowych (UODO) w Warszawie. Masz prawo wnieść skargę do tego organu, jeżeli uznasz, że przetwarzamy Twoje dane z naruszeniem przepisów.`,
+2.3. Dane związane z Pakietem 60 dni, Subskrypcją miesięczną oraz RevenueCat
 
-    termsContent: `Regulamin aplikacji mobilnej „Nowenna Pompejańska - przewodnik”
+Jeżeli kupujesz Pakiet 60 dni albo Subskrypcję miesięczną, płatność i rozliczenie zakupu są realizowane przez operatora odpowiedniej platformy dystrybucyjnej, tj. Google Play lub App Store.
+Administrator nie ma dostępu do Twoich pełnych danych płatniczych, takich jak numer karty płatniczej czy dane rachunku bankowego.
+W związku z funkcjonowaniem funkcji płatnych oraz korzystaniem z RevenueCat mogą być jednak przetwarzane informacje niezbędne do: 1) aktywacji Pakietu 60 dni albo Subskrypcji miesięcznej, 2) potwierdzenia dokonania zakupu, odnowienia lub wygaśnięcia subskrypcji, 3) weryfikacji i przywrócenia uprawnień na urządzeniu, 4) odblokowania funkcji dostępnych w ramach Płatnego dostępu, 5) rozliczenia, obsługi reklamacji, zwrotu lub problemów technicznych, jeżeli ma to zastosowanie.
+W zależności od konfiguracji technicznej mogą to być w szczególności dane takie jak: identyfikator produktu, identyfikator transakcji lub zakupu, informacje o subskrypcji lub statusie uprawnienia, pseudonimizowany identyfikator użytkownika w Aplikacji, identyfikatory techniczne związane z urządzeniem lub Aplikacją, informacje o wersji Aplikacji i platformie oraz dane niezbędne do przywrócenia zakupu lub subskrypcji.
+W zakresie, w jakim dane dotyczące płatności i zakupu są przetwarzane przez Google Play lub App Store, podmioty te działają zgodnie z własnymi politykami prywatności i warunkami świadczenia usług. RevenueCat przetwarza dane w zakresie niezbędnym do technicznej obsługi zakupów, subskrypcji i uprawnień zgodnie z zasadami mającymi zastosowanie do tej usługi.
 
-1. Definicje
+2.4. Dane przekazywane przy kontakcie z nami
+
+Jeżeli kontaktujesz się z nami, na przykład wysyłając e-mail na adres: christianapps438@gmail.com, przetwarzamy dane, które nam dobrowolnie przekażesz, takie jak: 1) adres e-mail, 2) imię, jeśli je podasz, 3) nazwisko, jeśli je podasz, 4) inne informacje zawarte w treści wiadomości.
+
+3. Jak wykorzystujemy zebrane informacje (cele i podstawy prawne przetwarzania)?
+
+Przetwarzamy Twoje dane osobowe tylko wtedy, gdy pozwalają na to przepisy prawa, w szczególności RODO (rozporządzenie 2016/679).
+Korzystanie z Aplikacji – w zakresie danych technicznych zapisywanych lokalnie na Twoim urządzeniu
+Cel: umożliwienie Ci korzystania z funkcji Aplikacji, zapamiętywania ustawień, postępu nowenny, informacji o akceptacji dokumentów oraz – w przypadku Płatnego dostępu – korzystania z funkcji dostępnych w ramach Pakietu 60 dni albo Subskrypcji miesięcznej.
+Podstawa prawna: niezbędność do wykonania umowy o świadczenie usług drogą elektroniczną (art. 6 ust. 1 lit. b RODO).
+Dane te pozostają jednak co do zasady wyłącznie na Twoim urządzeniu i nie są przekazywane Administratorowi.
+Kontakt i obsługa zgłoszeń
+Cel: udzielenie odpowiedzi na Twoje wiadomości oraz rozpatrywanie zgłoszeń i reklamacji.
+Podstawa prawna: niezbędność do wykonania umowy oraz nasz uzasadniony interes polegający na komunikacji z użytkownikami i obsłudze zgłoszeń (art. 6 ust. 1 lit. b i f RODO).
+Obowiązki prawne
+Cel: wypełnienie obowiązków wynikających z przepisów prawa, takich jak przechowywanie dokumentacji reklamacyjnej lub księgowej, jeżeli jest to wymagane.
+Podstawa prawna: wykonanie obowiązku prawnego ciążącego na Administratorze (art. 6 ust. 1 lit. c RODO).
+Reklamy w Wariancie bezpłatnym
+Cel: wyświetlanie reklam w Aplikacji oraz finansowanie jej działania z przychodów reklamowych.
+Podstawa prawna: 1) nasz uzasadniony interes polegający na finansowaniu Aplikacji z reklam (art. 6 ust. 1 lit. f RODO), 2) w zakresie reklam spersonalizowanych – Twoja zgoda udzielona w ustawieniach urządzenia, ustawieniach dostawcy lub w odpowiednich mechanizmach informacyjnych (art. 6 ust. 1 lit. a RODO).
+Pakiet 60 dni, Subskrypcja miesięczna i RevenueCat
+Cel: umożliwienie aktywacji, obsługi, weryfikacji, synchronizacji, odnowienia lub przywrócenia Płatnego dostępu oraz udostępnienia jego funkcji w Aplikacji.
+Podstawa prawna: niezbędność do wykonania umowy dotyczącej korzystania z płatnych funkcji Aplikacji (art. 6 ust. 1 lit. b RODO), a tam, gdzie jest to konieczne, także nasz uzasadniony interes polegający na technicznej obsłudze zakupów, rozpatrywaniu reklamacji, przeciwdziałaniu nadużyciom oraz dochodzeniu lub obronie przed roszczeniami (art. 6 ust. 1 lit. f RODO).
+W zakresie płatności i rozliczeń część danych może być przetwarzana przez operatorów platform dystrybucyjnych oraz RevenueCat zgodnie z ich rolą w danym procesie i własnymi zasadami.
+
+4. Jak długo przechowujemy dane?
+
+Dane techniczne zapisywane lokalnie na Twoim urządzeniu są przechowywane tak długo, jak Aplikacja pozostaje zainstalowana lub do momentu ich usunięcia przez Ciebie, na przykład poprzez odinstalowanie Aplikacji lub wyczyszczenie danych Aplikacji w ustawieniach systemu.
+Dane przekazane w korespondencji, takie jak e-maile, przechowujemy: 1) przez okres niezbędny do udzielenia odpowiedzi i obsługi Twojego zgłoszenia, 2) a następnie przez okres wymagany przepisami prawa lub uzasadniony potrzebą dochodzenia roszczeń albo obrony przed roszczeniami.
+Dane przetwarzane przez Google AdMob lub innego dostawcę reklam są przechowywane przez tego dostawcę zgodnie z zasadami określonymi w jego polityce prywatności.
+Dane związane z Pakietem 60 dni, Subskrypcją miesięczną, płatnościami i statusem uprawnień są przechowywane przez odpowiednią platformę dystrybucyjną oraz – w odpowiednim zakresie – przez RevenueCat zgodnie z ich politykami prywatności, regulaminami oraz obowiązującymi przepisami prawa.
+
+5. Gdzie przechowujemy Twoje dane osobowe?
+
+Dane techniczne związane z działaniem Aplikacji, takie jak ustawienia, stan postępu w nowennie, informacja o zapoznaniu się z Regulaminem i Polityką prywatności oraz informacje techniczne związane z korzystaniem z Płatnego dostępu, są przechowywane wyłącznie lokalnie na Twoim urządzeniu mobilnym. Administrator co do zasady nie ma bezpośredniego dostępu do tych danych.
+Dane, które przekażesz nam w korespondencji, na przykład za pośrednictwem e-maila, są przechowywane na serwerach wykorzystywanych przez nas do obsługi poczty oraz na naszych nośnikach danych, takich jak komputery i kopie zapasowe, zgodnie z zasadami opisanymi w niniejszej Polityce prywatności.
+Dane wykorzystywane do wyświetlania reklam w Wariancie bezpłatnym Aplikacji są przechowywane na serwerach Google lub innego dostawcy reklam oraz – jeżeli ma to zastosowanie – na serwerach ich partnerów reklamowych. Serwery te mogą znajdować się zarówno w Europejskim Obszarze Gospodarczym (EOG), jak i poza nim, na przykład w Stanach Zjednoczonych. W takich przypadkach przetwarzanie odbywa się zgodnie z mechanizmami przewidzianymi przez prawo, takimi jak standardowe klauzule umowne lub inne odpowiednie zabezpieczenia.
+Dane związane z płatnościami, zakupami, subskrypcjami, statusem uprawnień oraz ich przywracaniem mogą być przechowywane przez operatorów platform dystrybucyjnych, RevenueCat oraz ich dostawców zgodnie z ich własnymi politykami prywatności. Dane te mogą być również przetwarzane poza EOG zgodnie z mechanizmami przewidzianymi przez prawo.
+
+6. Odbiorcy danych osobowych
+
+Dane osobowe mogą być przekazywane: 1) podmiotom świadczącym na naszą rzecz usługi techniczne, takim jak dostawca poczty e-mail, 2) doradcom prawnym lub innym podmiotom wspierającym nas w dochodzeniu lub obronie przed roszczeniami, jeżeli jest to uzasadnione, 3) podmiotom uprawnionym do otrzymania danych na podstawie obowiązujących przepisów prawa.
+W zakresie wyświetlania reklam dane mogą być przekazywane do Google lub innego dostawcy reklam oraz ich partnerów reklamowych – jako odrębnych administratorów danych.
+W zakresie płatności, zakupu, odnowienia, przywrócenia zakupu, statusu uprawnień, zwrotów lub reklamacji dotyczących Pakietu 60 dni albo Subskrypcji miesięcznej dane mogą być przetwarzane przez operatorów platform dystrybucyjnych, tj. Google Play lub App Store, oraz przez RevenueCat – zgodnie z ich rolą w danym procesie.
+Dane mogą być przekazywane do państw trzecich, w szczególności do Stanów Zjednoczonych, w związku z korzystaniem z usług reklamowych, dostawców poczty elektronicznej, dostawców infrastruktury zakupowej lub płatniczej bądź innych dostawców infrastruktury. Takie przekazywanie odbywa się na podstawie mechanizmów przewidzianych przez przepisy prawa, takich jak standardowe klauzule umowne.
+
+7. Zautomatyzowane podejmowanie decyzji i profilowanie
+
+My, jako Administrator, nie podejmujemy wobec Ciebie decyzji opartych wyłącznie na zautomatyzowanym przetwarzaniu, które wywoływałyby wobec Ciebie skutki prawne lub w podobny sposób istotnie na Ciebie wpływały.
+Nie prowadzimy również profilowania użytkowników dla własnych celów marketingowych.
+Dane zbierane w ramach Google AdMob lub przez innego dostawcę reklam w Wariancie bezpłatnym Aplikacji mogą być wykorzystywane do doboru treści reklam, w tym profilowania reklamowego, przez tego dostawcę i jego partnerów, zgodnie z zasadami określonymi w ich politykach prywatności i ustawieniach użytkownika.
+
+8. Jakie są Twoje prawa?
+
+W związku z przetwarzaniem danych osobowych przysługują Ci następujące prawa: 1) prawo dostępu do danych, czyli uzyskania informacji o tym, jakie dane przetwarzamy, oraz kopii tych danych, 2) prawo sprostowania danych, 3) prawo usunięcia danych, znane również jako „prawo do bycia zapomnianym”, w przypadkach przewidzianych w RODO, 4) prawo ograniczenia przetwarzania, 5) prawo przenoszenia danych – w zakresie, w jakim dane są przetwarzane na podstawie zgody lub umowy, 6) prawo sprzeciwu wobec przetwarzania danych opartego na naszym uzasadnionym interesie, 7) prawo wycofania zgody – w zakresie, w jakim przetwarzanie odbywa się na podstawie zgody; wycofanie zgody nie wpływa na zgodność z prawem przetwarzania dokonanego przed jej wycofaniem, 8) prawo wniesienia skargi do organu nadzorczego, w szczególności do Prezesa Urzędu Ochrony Danych Osobowych (UODO) w Warszawie, jeżeli uznasz, że przetwarzamy Twoje dane osobowe z naruszeniem przepisów.
+Masz także prawo wnieść skargę do właściwego organu nadzorczego w kraju swojego zamieszkania, jeżeli takie prawo wynika z przepisów obowiązujących w tym kraju.
+Jeżeli chcesz skorzystać ze swoich praw, skontaktuj się z nami na dane wskazane w pkt 10 poniżej.
+
+9. Zmiany Polityki prywatności
+
+Możemy okresowo aktualizować niniejszą Politykę prywatności, m.in. w przypadku zmian w funkcjonowaniu Aplikacji, przepisach prawa, modelu płatności, rozwiązań reklamowych, sposobu obsługi zakupów, subskrypcji i RevenueCat lub stosowanych technologii.
+O istotnych zmianach możemy poinformować Cię poprzez komunikat w Aplikacji lub w inny odpowiedni sposób.
+Aktualna wersja Polityki prywatności jest udostępniana w Aplikacji oraz na naszej stronie internetowej. Jeżeli nie akceptujesz zmian, możesz zaprzestać korzystania z Aplikacji i ją odinstalować.
+10. Jak się z nami skontaktować?
+W sprawach związanych z przetwarzaniem Twoich danych osobowych możesz skontaktować się z nami:
+1) e-mailowo: christianapps438@gmail.com,
+2) listownie: Beata Kamińska, Warszawa (02-776), ul. Gandhi 35, Polska.
+Nadzór nad przestrzeganiem przepisów o ochronie danych osobowych sprawuje Prezes Urzędu Ochrony Danych Osobowych (UODO) w Warszawie. Masz prawo wnieść skargę do tego organu, jeżeli uznasz, że przetwarzamy Twoje dane z naruszeniem przepisów.
+`,
+    termsContent: `1. Definicje
 
 Usługodawca – Beata Kamińska, zamieszkała w Warszawie (02-776), ul. Gandhi 35, Polska.
-
 Adres e-mail do kontaktu: christianapps438@gmail.com.
-
 Użytkownik – każda osoba korzystająca z Aplikacji.
+Aplikacja mobilna / Aplikacja – aplikacja mobilna o nazwie „Nowenna Pompejańska - przewodnik”, przeznaczona do urządzeń mobilnych.
+Usługi – usługi świadczone drogą elektroniczną za pośrednictwem Aplikacji mobilnej.
+Wariant bezpłatny – bezpłatny model korzystania z Aplikacji, w ramach którego wyświetlane są reklamy i który co do zasady wymaga połączenia z Internetem.
+Pakiet 60 dni – odpłatny, jednorazowy wariant korzystania z Aplikacji, aktywowany w Aplikacji w drodze jednorazowego zakupu w aplikacji, zapewniający przez okres 60 dni od jego aktywacji w szczególności korzystanie z Aplikacji bez reklam, w podstawowym zakresie offline oraz dostęp do tekstów rozważań dotyczących tajemnic różańcowych, zgodnie z niniejszym Regulaminem.
+Subskrypcja miesięczna – odpłatny, odnawialny wariant korzystania z Aplikacji, aktywowany w Aplikacji w drodze zakupu subskrypcji w aplikacji, zapewniający przez aktywny, opłacony okres rozliczeniowy w szczególności korzystanie z Aplikacji bez reklam, w podstawowym zakresie offline oraz dostęp do tekstów rozważań dotyczących tajemnic różańcowych, zgodnie z niniejszym Regulaminem.
+Płatny dostęp – łącznie Pakiet 60 dni oraz Subskrypcja miesięczna.
+RevenueCat – zewnętrzny dostawca rozwiązań technicznych wykorzystywanych przez Usługodawcę do obsługi statusu zakupów, subskrypcji, uprawnień do funkcji płatnych, ich weryfikacji oraz przywracania w Aplikacji.
+Regulamin – niniejszy regulamin stanowiący regulamin w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
-[...] (tu wklejasz CAŁĄ resztę regulaminu bez zmian)
+2. Postanowienia ogólne
 
-Postanowienia niniejszego punktu 17 stosuje się odpowiednio do Google LLC oraz jej spółek zależnych jako operatorów platformy Google Play, w zakresie, w jakim ma to zastosowanie zgodnie z właściwymi regulaminami tych podmiotów.`,
+Regulamin określa prawa, obowiązki i ograniczenia dotyczące korzystania z Aplikacji mobilnej.
+Umowa o korzystanie z Aplikacji zawierana jest wyłącznie pomiędzy Użytkownikiem a Usługodawcą. Apple Inc., Google LLC, RevenueCat oraz inne podmioty współpracujące technicznie przy dystrybucji lub obsłudze Aplikacji nie są stroną niniejszej umowy i nie ponoszą odpowiedzialności za Aplikację ani za jej działanie, w zakresie dopuszczalnym przez bezwzględnie obowiązujące przepisy prawa.
+Dostęp do Aplikacji mobilnej i/lub korzystanie ze wszystkich lub z niektórych Usług oznacza, że Użytkownik akceptuje niniejszy Regulamin i zobowiązuje się do jego przestrzegania.
+Z Aplikacji mogą korzystać osoby, które ukończyły 13 lat. Osoby, które nie ukończyły 18 roku życia, mogą korzystać z Aplikacji, w tym dokonywać płatności za Płatny dostęp, wyłącznie za zgodą swojego opiekuna prawnego.
+Aplikacja jest dostępna w modelu bezpłatnym oraz w dwóch wariantach Płatnego dostępu: 1) Pakiecie 60 dni oraz 2) Subskrypcji miesięcznej.
+Usługodawca może w dowolnym momencie zmienić Regulamin poprzez udostępnienie jego nowej wersji w ramach aktualizacji Aplikacji mobilnej lub w miejscu, w którym Regulamin jest udostępniony Użytkownikowi. Korzystanie z Aplikacji po udostępnieniu nowej wersji Regulaminu oznacza jego akceptację przez Użytkownika.
+Użytkownik zobowiązany jest do korzystania z Aplikacji w sposób nienaruszający jej funkcjonowania, w szczególności poprzez nieużywanie oprogramowania złośliwego lub urządzeń zakłócających jej działanie.
+Aplikacja może być dostępna w różnych krajach. W przypadku korzystania z Aplikacji przez Użytkownika mającego miejsce zamieszkania poza terytorium Polski zastosowanie mają bezwzględnie obowiązujące przepisy prawa właściwe dla miejsca zamieszkania konsumenta.
+
+3. Dostęp do Aplikacji mobilnej
+
+Dostęp do Aplikacji może uzyskać każdy Użytkownik posiadający urządzenie mobilne z systemem Android (min. 6.0) lub iOS (min. 13.4).
+Korzystanie z Aplikacji w Wariancie bezpłatnym wymaga co do zasady dostępu do Internetu, w szczególności w celu wyświetlania reklam dostarczanych przez zewnętrznego dostawcę oraz prawidłowego działania Aplikacji w pełnym zakresie.
+W czasie aktywnego Płatnego dostępu Użytkownik może korzystać z podstawowych funkcji Aplikacji offline, bez potrzeby stałego połączenia z Internetem, z zastrzeżeniem konieczności połączenia z Internetem w celu: 1) pobrania Aplikacji, 2) pobrania aktualizacji, 3) dokonania zakupu Pakietu 60 dni lub Subskrypcji miesięcznej, 4) aktywacji, weryfikacji, synchronizacji albo przywrócenia Płatnego dostępu, jeżeli jest to wymagane przez operatora platformy dystrybucyjnej, RevenueCat albo mechanizmy techniczne Aplikacji, 5) obsługi reklamacji, zwrotu lub problemów technicznych, jeżeli wymagają one połączenia z siecią.
+Po wygaśnięciu Płatnego dostępu Aplikacja może powrócić do Wariantu bezpłatnego, w tym do wyświetlania reklam oraz do wymogu połączenia z Internetem.
+W przypadku zmiany urządzenia mobilnego, jego wymiany, utraty, uszkodzenia albo ponownej instalacji systemu operacyjnego, Użytkownik może być zobowiązany do ponownego pobrania Aplikacji z właściwej platformy dystrybucyjnej, tj. Google Play lub App Store, z wykorzystaniem konta użytkownika, za pośrednictwem którego dokonano zakupu Płatnego dostępu lub z którym zakup ten jest powiązany zgodnie z zasadami danej platformy.
+Jeżeli Użytkownik ma aktywny Płatny dostęp albo wcześniej nabyty Pakiet 60 dni, to po ponownym zainstalowaniu Aplikacji może być konieczne kliknięcie przycisku „Przywróć” lub skorzystanie z równoważnej funkcji w celu odblokowania odpowiednich uprawnień na danym urządzeniu.
+Możliwość ponownego pobrania Aplikacji, przywrócenia zakupu albo odzyskania dostępu do Płatnego dostępu może zależeć od: 1) dostępności Aplikacji na danej platformie dystrybucyjnej, 2) technicznych możliwości i zasad obowiązujących na Google Play lub App Store, 3) prawidłowego działania usług RevenueCat, w zakresie, w jakim są wykorzystywane przez Aplikację, 4) korzystania przez Użytkownika z właściwego konta użytkownika, 5) udostępniania przez daną platformę lub Aplikację funkcji przywracania lub odtwarzania wcześniej dokonanych zakupów.
+Jeżeli Usługodawca zaprzestanie dystrybucji Aplikacji albo Aplikacja przestanie być dostępna do pobrania na danej platformie dystrybucyjnej, ponowne pobranie Aplikacji, jej instalacja, przywrócenie zakupu lub odzyskanie dostępu do Płatnego dostępu może być niemożliwe.
+Koszty połączenia internetowego, transmisji danych lub usług roamingu ponosi Użytkownik. W przypadku ograniczeń lub opłat narzuconych przez operatora sieci, Użytkownik jest zobowiązany do ich pokrycia.
+Korzystając z Aplikacji, Użytkownik zobowiązany jest do przestrzegania wszelkich warunków umów zawartych z podmiotami trzecimi, w szczególności z operatorem sieci telekomunikacyjnej, dostawcą dostępu do Internetu oraz operatorami platform dystrybucyjnych, takimi jak Google Play i App Store. Usługodawca nie ponosi odpowiedzialności za naruszenie przez Użytkownika takich umów.
+Usługodawca może ograniczyć lub zablokować dostęp do Aplikacji w przypadku, gdy sposób korzystania przez Użytkownika narusza przepisy prawa, postanowienia Regulaminu lub powoduje zakłócenia w działaniu Aplikacji.
+W przypadkach takich działań Usługodawca może również podjąć inne środki niezbędne do zapewnienia bezpieczeństwa Aplikacji i jej użytkowników. W przypadku ograniczenia lub zablokowania dostępu do Aplikacji z przyczyn leżących po stronie Użytkownika, w szczególności w związku z rażącym naruszeniem Regulaminu lub przepisów prawa, Usługodawca nie ponosi odpowiedzialności za jakiekolwiek szkody poniesione przez Użytkownika z tego tytułu, a Użytkownikowi nie przysługuje zwrot opłat uiszczonych za Płatny dostęp, w zakresie dopuszczalnym przez bezwzględnie obowiązujące przepisy prawa oraz zasady obowiązujące na platformie dystrybucyjnej.
+Usługodawca zastrzega sobie prawo do zmiany lub zaprzestania świadczenia usług za pośrednictwem Aplikacji, w tym do zaprzestania jej dystrybucji, w każdym czasie i bez podania przyczyny.
+Korzystanie z usług elektronicznych, w tym z Aplikacji wymagającej połączenia z Internetem, może wiązać się z ryzykiem uzyskania dostępu do danych przez osoby nieuprawnione, jeżeli urządzenie Użytkownika lub wykorzystywana sieć nie są odpowiednio zabezpieczone.
+
+4. Przeznaczenie Aplikacji mobilnej
+
+Aplikacja ma na celu praktyczną pomoc w odmawianiu Nowenny Pompejańskiej, w szczególności poprzez ułatwienie organizacji modlitwy oraz śledzenia postępu w nowennie.
+
+5. Zasady działania Aplikacji mobilnej
+
+Aplikacja mobilna została stworzona w celu wspierania Użytkowników w modlitwie Nowenną Pompejańską poprzez udostępnienie funkcji pomocniczych związanych z organizacją modlitwy i postępu nowenny.
+Aplikacja może w szczególności umożliwiać Użytkownikowi korzystanie z funkcji związanych z przebiegiem modlitwy, strukturą nowenny, zapisem postępu, ustawieniami językowymi lub innymi funkcjami pomocniczymi udostępnianymi w aktualnej wersji Aplikacji.
+Dokładny zakres funkcji Aplikacji może zmieniać się wraz z jej rozwojem, aktualizacjami, wersją systemu operacyjnego, możliwościami technicznymi urządzenia lub wybranym modelem korzystania z Aplikacji.
+Aplikacja może zapisywać w pamięci urządzenia Użytkownika dane techniczne niezbędne do jej prawidłowego działania, takie jak ustawienia języka, stan postępu w nowennie, informację o aktywnym Płatnym dostępie czy informację o zapoznaniu się z Regulaminem i Polityką prywatności. Dane te nie są przesyłane ani udostępniane podmiotom zewnętrznym, chyba że wynika to z korzystania z usług reklamowych, platform dystrybucyjnych lub rozwiązań związanych z obsługą zakupów i uprawnień.
+W Wariancie bezpłatnym niektóre elementy działania Aplikacji mogą wymagać aktywnego połączenia z Internetem, w szczególności ze względu na wyświetlanie reklam oraz techniczną obsługę niektórych funkcji. W czasie aktywnego Płatnego dostępu podstawowe funkcje Aplikacji opisane w niniejszym Regulaminie są dostępne w podstawowym zakresie offline, z zastrzeżeniem przypadków wskazanych w pkt 3 Regulaminu.
+Aplikacja nie ma charakteru liturgicznego ani nie zastępuje osobistej modlitwy, kierownictwa duchowego ani nauczania Kościoła. Jej funkcja ma charakter pomocniczy i służy ułatwieniu skupienia oraz organizacji modlitwy Użytkownika.
+Niektóre treści dostępne w Aplikacji, w tym w szczególności teksty rozważań dotyczących tajemnic różańcowych, mogą być tworzone, opracowywane lub modyfikowane z wykorzystaniem narzędzi opartych na sztucznej inteligencji. Treści te mają charakter pomocniczy i nie stanowią oficjalnego stanowiska Kościoła.
+
+6. Model korzystania z Aplikacji, Pakiet 60 dni, Subskrypcja miesięczna, odstąpienie i zwroty
+
+Korzystanie z Aplikacji w Wariancie bezpłatnym jest dla Użytkownika bezpłatne. Usługodawca może uzyskiwać wynagrodzenie z tytułu wyświetlania reklam w Aplikacji.
+Użytkownik może opcjonalnie aktywować Płatny dostęp w Aplikacji poprzez: 1) zakup Pakietu 60 dni albo 2) wykupienie Subskrypcji miesięcznej.
+Pakiet 60 dni jest wariantem jednorazowym i nie odnawia się automatycznie. Zapewnia dostęp do funkcji objętych Płatnym dostępem przez okres 60 kolejnych dni od momentu aktywacji wskazanego w Aplikacji lub, jeżeli Aplikacja nie przewiduje odrębnego momentu aktywacji, od momentu skutecznego zakupu.
+Subskrypcja miesięczna ma charakter odnawialny i co do zasady odnawia się automatycznie na kolejne okresy rozliczeniowe zgodnie z zasadami właściwej platformy dystrybucyjnej, chyba że Użytkownik anuluje subskrypcję przed rozpoczęciem kolejnego okresu rozliczeniowego zgodnie z zasadami tej platformy.
+Zakres korzyści wynikających z aktywowanego Płatnego dostępu obejmuje w szczególności: 1) brak reklam w Aplikacji, 2) możliwość korzystania z podstawowych funkcji Aplikacji offline w czasie aktywnego, opłaconego okresu, zgodnie z pkt 3 i 5 Regulaminu.
+Aktualna cena Pakietu 60 dni albo Subskrypcji miesięcznej jest każdorazowo wskazana Użytkownikowi przed zawarciem transakcji w odpowiednim sklepie, tj. Google Play lub App Store.
+Płatności za Pakiet 60 dni oraz Subskrypcję miesięczną są realizowane za pośrednictwem Google Play lub App Store zgodnie z zasadami tych usług. Usługodawca może korzystać z usług RevenueCat w celu technicznej obsługi statusu zakupów, subskrypcji, weryfikacji uprawnień oraz przywracania Płatnego dostępu.
+Usługodawca nie ma dostępu do pełnych danych płatniczych Użytkownika ani wpływu na proces pobierania, realizacji lub technicznej obsługi płatności dokonywanych przez platformy dystrybucyjne, z zastrzeżeniem przypadków wynikających z bezwzględnie obowiązujących przepisów prawa oraz funkcjonalności udostępnionych Usługodawcy przez daną platformę lub RevenueCat.
+Usługodawca może w każdym czasie zmienić ceny Pakietu 60 dni oraz Subskrypcji miesięcznej, przy czym zmiana ceny nie wpływa na Pakiet 60 dni już zakupiony ani na aktualnie opłacony okres Subskrypcji miesięcznej. W przypadku przyszłych odnowień Subskrypcji miesięcznej zastosowanie mają zasady i procedury danej platformy dystrybucyjnej.
+W przypadku ponownej instalacji Aplikacji lub korzystania z niej na innym urządzeniu Użytkownik może odzyskać dostęp do aktywnego Płatnego dostępu wyłącznie w zakresie, w jakim jest to możliwe zgodnie z zasadami właściwej platformy dystrybucyjnej, z wykorzystaniem konta, z którym zakup jest powiązany, oraz przy prawidłowym działaniu wykorzystywanych rozwiązań technicznych, w tym RevenueCat. Po ponownym zainstalowaniu Aplikacji może być konieczne skorzystanie z funkcji „Przywróć”.
+Jeżeli aktywny Płatny dostęp wygaśnie lub zostanie skutecznie anulowany, Aplikacja może automatycznie powrócić do Wariantu bezpłatnego.
+Użytkownikowi będącemu konsumentem mogą przysługiwać uprawnienia wynikające z prawa do odstąpienia od umowy zawartej na odległość, zgodnie z bezwzględnie obowiązującymi przepisami prawa.
+Szczegółowe informacje dotyczące prawa odstąpienia od umowy, jego ewentualnych ograniczeń albo utraty w przypadkach przewidzianych prawem, a także informacje wymagane przepisami prawa konsumenckiego, powinny zostać przekazane Użytkownikowi najpóźniej przed dokonaniem płatności lub zawarciem umowy dotyczącej Pakietu 60 dni albo Subskrypcji miesięcznej.
+W przypadkach przewidzianych przez prawo rozpoczęcie spełniania świadczenia cyfrowego przed upływem terminu na odstąpienie od umowy może skutkować brakiem prawa odstąpienia albo jego utratą, jeżeli zostały spełnione ustawowe warunki oraz obowiązki informacyjne.
+Wnioski dotyczące zwrotu płatności dokonanych za pośrednictwem Google Play lub App Store Użytkownik może składać z wykorzystaniem narzędzi i procedur udostępnionych przez daną platformę dystrybucyjną. Postanowienie to nie wyłącza praw Użytkownika wynikających z bezwzględnie obowiązujących przepisów prawa.
+
+7. Reklamy
+
+W Wariancie bezpłatnym Aplikacja zawiera reklamy dostarczane przez zewnętrznego dostawcę, w szczególności Google AdMob, które stanowią jedno ze źródeł finansowania Usługodawcy.
+W celu wyświetlania i personalizacji reklam Aplikacja może korzystać z identyfikatorów urządzenia lub innych technologii zgodnie z zasadami przetwarzania danych stosowanymi przez dostawcę reklam. Reklamy mogą być personalizowane przez dostawcę reklam zgodnie z jego własną polityką prywatności.
+Usługodawca nie ma wpływu na treść ani sposób działania reklam dostarczanych przez zewnętrznych dostawców i nie ponosi odpowiedzialności za ich zawartość.
+W czasie aktywnego Płatnego dostępu Aplikacja nie wyświetla reklam dostarczanych przez zewnętrznych dostawców w ramach standardowego korzystania z Aplikacji.
+
+8. Obowiązki i odpowiedzialność Użytkownika
+
+Użytkownik zobowiązany jest do korzystania z Aplikacji zgodnie z jej przeznaczeniem, obowiązującym prawem, zasadami współżycia społecznego oraz postanowieniami Regulaminu.
+Zabronione jest podejmowanie działań mogących zakłócić działanie Aplikacji, w tym prób nieuprawnionego dostępu, wprowadzania złośliwego oprogramowania lub innych działań mogących naruszać bezpieczeństwo systemu. Zabrania się naruszania praw własności intelektualnej Usługodawcy.
+Użytkownik ponosi odpowiedzialność za wszelkie szkody spowodowane korzystaniem z Aplikacji w sposób sprzeczny z prawem lub niniejszym Regulaminem.
+Aplikacja nie przewiduje funkcji umożliwiających publikowanie treści przez Użytkowników.
+
+9. Ograniczenie odpowiedzialności
+
+Usługodawca dokłada wszelkich starań, aby Aplikacja mobilna działała prawidłowo oraz była dostępna dla Użytkowników w sposób ciągły, w miarę możliwości technicznych. Może jednak czasowo ograniczyć dostęp do Aplikacji w celu przeprowadzenia prac konserwacyjnych, aktualizacji lub z przyczyn technicznych niezależnych od Usługodawcy.
+Aplikacja mobilna oraz jej funkcje są udostępniane w stanie, w jakim znajdują się w danym momencie („tak, jak jest”). Usługodawca nie udziela żadnych gwarancji, wyraźnych ani dorozumianych, że Aplikacja będzie wolna od błędów, działała nieprzerwanie lub że spełni wszystkie oczekiwania Użytkownika, w zakresie dopuszczonym przez obowiązujące prawo.
+Użytkownik korzysta z Aplikacji na własną odpowiedzialność.
+W maksymalnym zakresie dopuszczonym przez prawo, Usługodawca nie ponosi odpowiedzialności za jakiekolwiek szkody, także pośrednie, wynikowe lub utratę danych, zysków lub korzyści, powstałe w związku z korzystaniem z Aplikacji lub niemożnością korzystania z niej.
+Jeżeli mimo postanowień niniejszego paragrafu odpowiedzialność Usługodawcy wobec Użytkownika zostałaby stwierdzona, łączna odpowiedzialność Usługodawcy z tytułu jakiegokolwiek roszczenia związanego z Aplikacją, niezależnie od podstawy prawnej, jest ograniczona do kwoty odpowiadającej łącznym świadczeniom pieniężnym faktycznie uiszczonym przez danego Użytkownika na rzecz Usługodawcy w związku z korzystaniem z Aplikacji, chyba że bezwzględnie obowiązujące przepisy prawa stanowią inaczej.
+Ograniczenie odpowiedzialności, o którym mowa powyżej, nie dotyczy przypadków, w których odpowiedzialność Usługodawcy nie może być wyłączona lub ograniczona na mocy bezwzględnie obowiązujących przepisów prawa. W takich przypadkach stosuje się ograniczenie w maksymalnym zakresie dozwolonym przez prawo.
+
+10. Rozwiązanie umowy
+
+Użytkownik może w każdej chwili rozwiązać umowę o świadczenie usług poprzez odinstalowanie Aplikacji z urządzenia. Usunięcie Aplikacji skutkuje utratą dostępu do wszystkich funkcji Aplikacji dostępnych na danym urządzeniu.
+Odinstalowanie Aplikacji nie stanowi samo w sobie podstawy do żądania zwrotu opłat uiszczonych za Płatny dostęp, z zastrzeżeniem praw Użytkownika wynikających z bezwzględnie obowiązujących przepisów prawa oraz zasad obowiązujących na platformie dystrybucyjnej.
+Pakiet 60 dni nie ma charakteru subskrypcyjnego i nie wymaga anulowania cyklicznych odnowień.
+W przypadku Subskrypcji miesięcznej samo odinstalowanie Aplikacji nie powoduje anulowania subskrypcji. Anulowanie Subskrypcji miesięcznej powinno nastąpić zgodnie z zasadami odpowiedniej platformy dystrybucyjnej. Po skutecznym anulowaniu Użytkownik zachowuje dostęp do funkcji subskrypcyjnych do końca opłaconego okresu rozliczeniowego, chyba że zasady danej platformy stanowią inaczej.
+Ponowne uzyskanie dostępu do Aplikacji po jej odinstalowaniu, zmianie urządzenia albo utracie urządzenia może wymagać ponownego pobrania Aplikacji z Google Play lub App Store oraz użycia funkcji przywrócenia zakupu, w szczególności przycisku „Przywróć”, zgodnie z zasadami danej platformy i rozwiązaniami technicznymi wykorzystywanymi w Aplikacji.
+Jeżeli Aplikacja nie będzie już dystrybuowana przez Usługodawcę lub nie będzie dostępna na właściwej platformie dystrybucyjnej, ponowne pobranie Aplikacji albo odzyskanie dostępu do aktywnego Płatnego dostępu może być niemożliwe. Użytkownik przyjmuje to do wiadomości.
+Ewentualny zwrot płatności za Pakiet 60 dni, Subskrypcję miesięczną lub inne płatności dokonane za pośrednictwem Google Play lub App Store odbywa się zgodnie z zasadami obowiązującymi na danej platformie oraz z bezwzględnie obowiązującymi przepisami prawa.
+
+11. Własność intelektualna
+
+Znaki towarowe, logo, treści i oprogramowanie stanowią własność Usługodawcy i są chronione przepisami prawa autorskiego.
+Kopiowanie, modyfikowanie lub dystrybucja Aplikacji bez zgody Usługodawcy są zabronione.
+
+12. Licencja
+
+Aplikacja mobilna jest dostarczana Użytkownikowi na podstawie niezbywalnej, niewyłącznej, niekomercyjnej licencji osobistej.
+Licencja obejmuje prawo do pobrania, instalacji i korzystania z Aplikacji na urządzeniu mobilnym należącym do Użytkownika, zgodnie z jej przeznaczeniem. Licencja ma charakter globalny i obowiązuje w granicach prawa właściwego dla miejsca zamieszkania Użytkownika.
+Licencja nie obejmuje prawa do modyfikowania, kopiowania, rozpowszechniania, udostępniania, sprzedawania ani sublicencjonowania Aplikacji, w całości lub w części. W szczególności licencja nie obejmuje prawa do korzystania z logo Aplikacji ani jakichkolwiek znaków towarowych, nazw handlowych lub innych oznaczeń identyfikujących Usługodawcę.
+Nabycie Pakietu 60 dni albo Subskrypcji miesięcznej nie oznacza nabycia własności Aplikacji ani praw autorskich do niej, a jedynie uzyskanie prawa do korzystania z funkcji Płatnego dostępu zgodnie z niniejszym Regulaminem.
+Licencja obowiązuje od momentu pobrania Aplikacji do czasu jej odinstalowania przez Użytkownika lub cofnięcia licencji przez Usługodawcę w przypadku rażącego naruszenia postanowień Regulaminu. Cofnięcie licencji z przyczyn leżących po stronie Użytkownika nie rodzi po stronie Usługodawcy obowiązku zwrotu jakichkolwiek opłat uiszczonych przez Użytkownika za korzystanie z Aplikacji, w tym opłat za Płatny dostęp, w zakresie dopuszczalnym przez bezwzględnie obowiązujące przepisy prawa oraz zasady obowiązujące na platformie dystrybucyjnej.
+
+13. Wykorzystywane technologie
+
+W Wariancie bezpłatnym Aplikacja może korzystać z usług reklamowych zewnętrznych dostawców, w szczególności Google AdMob.
+W związku z obsługą Pakietu 60 dni i Subskrypcji miesięcznej Aplikacja może korzystać z rozwiązań technicznych RevenueCat służących do weryfikacji statusu zakupów, subskrypcji, uprawnień do funkcji płatnych oraz ich przywracania.
+Płatności za Płatny dostęp są realizowane za pośrednictwem operatorów właściwych platform dystrybucyjnych, w szczególności Google Play lub App Store.
+Szczegółowe zasady świadczenia usług przez wskazane podmioty zewnętrzne, w tym zasady przetwarzania danych, są określone w ich własnych regulaminach i politykach prywatności.
+
+14. Postępowanie reklamacyjne
+
+W przypadku niewykonania lub nienależytego wykonania przez Usługodawcę usług świadczonych za pomocą Aplikacji mobilnej, Użytkownik jest uprawniony do złożenia reklamacji drogą elektroniczną na adres e-mail Usługodawcy wskazany w niniejszym Regulaminie.
+Prawidłowo złożona reklamacja powinna zawierać oznaczenie Użytkownika, tj. imię i nazwisko lub nazwę, adres poczty elektronicznej, oraz opis okoliczności uzasadniających reklamację.
+W przypadku gdy zgłoszenie reklamacyjne nie zawiera informacji niezbędnych do jego rozpatrzenia, Usługodawca może zwrócić się do Użytkownika o ich uzupełnienie przed rozpoczęciem rozpatrywania reklamacji.
+Reklamacja zostanie rozpatrzona przez Usługodawcę bez zbędnej zwłoki, nie później niż w terminie 14 dni od dnia jej otrzymania lub, w przypadku wezwania do uzupełnienia, od dnia otrzymania uzupełnionych informacji.
+Brak odpowiedzi Usługodawcy w powyższym terminie oznacza uznanie reklamacji.
+O wyniku rozpatrzenia reklamacji Użytkownik zostanie poinformowany drogą elektroniczną na adres e-mail, z którego przesłano zgłoszenie.
+Dane osobowe zawarte w reklamacji są przetwarzane wyłącznie w celu jej rozpatrzenia zgodnie z Polityką prywatności.
+
+15. Postanowienia dodatkowe
+
+Jeżeli jakiekolwiek postanowienie Regulaminu zostanie uznane za nieważne lub nieskuteczne, pozostałe postanowienia zachowują moc obowiązującą.
+Regulamin podlega prawu polskiemu, przy czym wybór prawa nie ogranicza praw Użytkownika wynikających z bezwzględnie obowiązujących przepisów prawa obowiązujących w kraju jego zamieszkania.
+W przypadku Użytkowników będących konsumentami właściwość sądu określają bezwzględnie obowiązujące przepisy prawa. W przypadku Użytkowników niebędących konsumentami wszelkie spory wynikające z niniejszego Regulaminu będą rozstrzygane przez sąd właściwy dla siedziby Usługodawcy, o ile przepisy prawa nie stanowią inaczej.
+Użytkownik może skorzystać z pozasądowych metod rozwiązywania sporów konsumenckich dostępnych w kraju jego zamieszkania.
+
+16. Wejście w życie
+
+Niniejszy Regulamin obowiązuje od dnia opublikowania w Aplikacji.
+Regulamin jest udostępniany Użytkownikowi w Aplikacji przed rozpoczęciem korzystania z niej oraz na stronie internetowej Usługodawcy.
+
+17. Postanowienia dotyczące platform dystrybucyjnych (App Store i Google Play)
+
+W zakresie, w jakim Użytkownik pobiera Aplikację z platformy App Store, dostarczanej przez Apple Inc. lub jej spółki zależne, lub z platformy Google Play, dostarczanej przez Google LLC lub jej spółki zależne, niniejszy Regulamin stanowi umowę wyłącznie pomiędzy Użytkownikiem a Usługodawcą. Apple Inc., Google LLC ani ich spółki zależne nie są stroną niniejszej umowy i nie ponoszą odpowiedzialności za Aplikację, jej treść ani jakiekolwiek świadczenia przewidziane Regulaminem.
+Wyłączną odpowiedzialność za utrzymanie, rozwój i wsparcie techniczne Aplikacji ponosi Usługodawca. Apple Inc., Google LLC ani ich spółki zależne nie są zobowiązane do świadczenia jakichkolwiek usług wsparcia czy serwisu w odniesieniu do Aplikacji.
+W zakresie dopuszczalnym przez bezwzględnie obowiązujące przepisy prawa Apple Inc., Google LLC oraz ich spółki zależne nie udzielają żadnych gwarancji, rękojmi ani zapewnień w odniesieniu do Aplikacji. W szczególności Apple Inc., Google LLC ani ich spółki zależne nie ponoszą odpowiedzialności za jakiekolwiek roszczenia Użytkownika lub osób trzecich związane z Aplikacją, jej posiadaniem lub korzystaniem z niej, w tym za roszczenia z tytułu odpowiedzialności za produkt, niespełnienia wymogów prawnych, naruszenia praw konsumenta lub przepisów o ochronie prywatności.
+Wyłączną odpowiedzialność za rozpoznawanie i rozstrzyganie wszelkich roszczeń osób trzecich wynikających z zarzutu naruszenia przez Aplikację lub jej używanie praw własności intelektualnej takich osób, w szczególności praw autorskich, praw do znaków towarowych lub patentów, ponosi Usługodawca. Apple Inc., Google LLC ani ich spółki zależne nie są zobowiązane do udziału w postępowaniach w tym zakresie.
+Użytkownik oświadcza, że nie znajduje się na terytorium państwa objętego embargiem rządu Stanów Zjednoczonych ani nie widnieje na jakiejkolwiek liście podmiotów, wobec których rząd Stanów Zjednoczonych stosuje zakaz lub ograniczenia w zakresie obrotu, w szczególności na listach „Specially Designated Nationals” lub „Denied Persons List”. Użytkownik zobowiązuje się do korzystania z Aplikacji zgodnie z przepisami prawa dotyczącymi kontroli eksportu i sankcji gospodarczych obowiązującymi w jego jurysdykcji.
+Użytkownik przyjmuje do wiadomości i zgadza się, że Apple Inc. oraz jej spółki zależne są uprawnionymi beneficjentami, ang. third-party beneficiaries, niniejszego Regulaminu w zakresie, w jakim dotyczy on Aplikacji pobranej z platformy App Store, oraz że jako tacy mają prawo dochodzić przestrzegania postanowień Regulaminu wobec Użytkownika.
+Postanowienia niniejszego punktu 17 stosuje się odpowiednio do Google LLC oraz jej spółek zależnych jako operatorów platformy Google Play, w zakresie, w jakim ma to zastosowanie zgodnie z właściwymi regulaminami tych podmiotów.
+`,
   },
 };
 
