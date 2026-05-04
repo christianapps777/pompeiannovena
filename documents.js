@@ -46,6 +46,15 @@ To the extent that payment and purchase-related data is processed by Google Play
 
 If you contact us, for example by sending an e-mail to: christianapps438@gmail.com, we process the data that you voluntarily provide to us, such as: 1) e-mail address, 2) first name, if provided, 3) last name, if provided, 4) any other information included in the message content.
 
+2.5. Data collected and shared via third-party services (SDKs)
+
+The Application may collect (“collect”) and share (“share”) user data through third-party libraries and tools (SDKs), in particular Google AdMob (advertising) and RevenueCat (in-app purchases and subscriptions).
+As part of the operation of these services, technical data may be processed, such as device identifiers (e.g. advertising ID), device information, user interactions with the Application, information about purchases and subscriptions, and other data necessary for the proper functioning of these services.
+This data may be transferred to third parties (e.g. advertising service providers or technical infrastructure providers) and processed by them in accordance with their respective privacy policies.
+The Controller does not control the detailed scope or methods of data processing carried out by these entities, which may act as independent data controllers or data processors.
+The Application may display local notifications reminding users to pray, based on settings selected by the user. These notifications are generated locally on the device and do not require the transmission of data to the Controller’s servers.
+The scope of data collection and sharing may vary depending on user settings and the configuration of third-party services.
+
 3. How do we use the collected information (purposes and legal bases for processing)?
 
 We process your personal data only where permitted by law, in particular under the GDPR (Regulation 2016/679).
@@ -320,6 +329,15 @@ W zakresie, w jakim dane dotyczące płatności i zakupu są przetwarzane przez 
 2.4. Dane przekazywane przy kontakcie z nami
 
 Jeżeli kontaktujesz się z nami, na przykład wysyłając e-mail na adres: christianapps438@gmail.com, przetwarzamy dane, które nam dobrowolnie przekażesz, takie jak: 1) adres e-mail, 2) imię, jeśli je podasz, 3) nazwisko, jeśli je podasz, 4) inne informacje zawarte w treści wiadomości.
+
+2.5. Dane zbierane i udostępniane za pośrednictwem zewnętrznych usług (SDK)
+
+Aplikacja może zbierać („collect”) oraz udostępniać („share”) dane użytkownika za pośrednictwem zewnętrznych bibliotek i narzędzi (SDK), takich jak w szczególności Google AdMob (reklamy) oraz RevenueCat (obsługa zakupów i subskrypcji).
+W ramach działania tych usług mogą być przetwarzane dane techniczne, takie jak identyfikatory urządzenia (np. identyfikator reklamowy), informacje o urządzeniu, interakcje użytkownika z aplikacją, informacje o zakupach i subskrypcjach oraz inne dane niezbędne do działania usług.
+Dane te mogą być przekazywane do podmiotów trzecich (np. dostawców usług reklamowych lub infrastruktury technicznej) i przetwarzane przez te podmioty zgodnie z ich własnymi politykami prywatności.
+Administrator nie kontroluje szczegółowego zakresu i sposobu przetwarzania danych przez te podmioty, które działają jako odrębni administratorzy danych lub podmioty przetwarzające.
+Aplikacja może wyświetlać lokalne powiadomienia przypominające o modlitwie na podstawie ustawień wybranych przez użytkownika. Powiadomienia te są generowane lokalnie na urządzeniu i nie wymagają przesyłania danych na serwery Administratora.
+Zakres zbierania i udostępniania danych może różnić się w zależności od ustawień użytkownika oraz konfiguracji usług zewnętrznych.
 
 3. Jak wykorzystujemy zebrane informacje (cele i podstawy prawne przetwarzania)?
 
