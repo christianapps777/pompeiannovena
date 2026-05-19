@@ -134,7 +134,7 @@ Services – services provided electronically through the Mobile Application.
 Free Version – a free model of using the Application under which advertisements are displayed and which, as a rule, requires an Internet connection.
 60-Day Package – a paid, one-time access option for using the Application, available exclusively in the version of the Application intended for Android devices, activated within the Application through a one-time in-app purchase, providing for a period of 60 days from the date of activation, in particular, use of the Application without advertisements, access to basic offline functionality, and access to meditation texts concerning the mysteries of the Rosary, in accordance with these Terms and Conditions.
 Monthly Subscription – a paid, renewable option for using the Application, activated within the Application through the purchase of a subscription, providing during the active, paid billing period, in particular, use of the Application without advertisements, basic offline functionality, and access to reflection texts on the mysteries of the Rosary, in accordance with these Terms and Conditions.
-Paid Access – jointly, the 60-Day Package and the Monthly Subscription.
+Paid Access (Premium)– jointly, the 60-Day Package and the Monthly Subscription.
 RevenueCat – an external provider of technical solutions used by the Service Provider to handle purchase status, subscriptions, entitlements to paid features, and their verification and restoration within the Application.
 Terms and Conditions – these terms and conditions constituting terms and conditions within the meaning of the Polish Act of 18 July 2002 on the Provision of Electronic Services.
 
@@ -416,7 +416,7 @@ Usługi – usługi świadczone drogą elektroniczną za pośrednictwem Aplikacj
 Wariant bezpłatny – bezpłatny model korzystania z Aplikacji, w ramach którego wyświetlane są reklamy i który co do zasady wymaga połączenia z Internetem.
 Pakiet 60 dni – odpłatny, jednorazowy wariant korzystania z Aplikacji, dostępny wyłącznie w wersji Aplikacji przeznaczonej dla urządzeń z systemem Android, aktywowany w Aplikacji w drodze jednorazowego zakupu w aplikacji, zapewniający przez okres 60 dni od jego aktywacji w szczególności korzystanie z Aplikacji bez reklam, w podstawowym zakresie offline oraz dostęp do tekstów rozważań dotyczących tajemnic różańcowych, zgodnie z niniejszym Regulaminem.
 Subskrypcja miesięczna – odpłatny, odnawialny wariant korzystania z Aplikacji, aktywowany w Aplikacji w drodze zakupu subskrypcji w aplikacji, zapewniający przez aktywny, opłacony okres rozliczeniowy w szczególności korzystanie z Aplikacji bez reklam, w podstawowym zakresie offline oraz dostęp do tekstów rozważań dotyczących tajemnic różańcowych, zgodnie z niniejszym Regulaminem.
-Płatny dostęp – łącznie Pakiet 60 dni oraz Subskrypcja miesięczna.
+Płatny dostęp (Premium) – łącznie Pakiet 60 dni oraz Subskrypcja miesięczna.
 RevenueCat – zewnętrzny dostawca rozwiązań technicznych wykorzystywanych przez Usługodawcę do obsługi statusu zakupów, subskrypcji, uprawnień do funkcji płatnych, ich weryfikacji oraz przywracania w Aplikacji.
 Regulamin – niniejszy regulamin stanowiący regulamin w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
